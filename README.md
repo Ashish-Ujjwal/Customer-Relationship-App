@@ -17,7 +17,7 @@
 <img src="https://github.com/Ashish-Ujjwal/Customer-Relationship-App/blob/main/Image/Screenshot%20(760).png" alt="project-screenshot" width="1000" height="500/">
 
 
-<img src="https://github.com/Ashish-Ujjwal/Customer-Relationship-App/blob/main/Image/Screenshot%20(761).png" alt="project-screenshot" width="500" height="500/">
+<img src="https://github.com/Ashish-Ujjwal/Customer-Relationship-App/blob/main/Image/Screenshot%20(761).png" alt="project-screenshot" width="1000" height="500/">
 
 <img src="https://github.com/Ashish-Ujjwal/Customer-Relationship-App/blob/main/Image/Screenshot%20(762).png" alt="project-screenshot" width="1000" height="500/">
 
